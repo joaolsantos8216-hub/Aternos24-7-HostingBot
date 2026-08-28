@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "servedogoku.aternos.me",
+    "port": 17271,
     "version": "",
     "try-creative": false
   },
